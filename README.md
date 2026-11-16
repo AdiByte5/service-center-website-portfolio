@@ -4,6 +4,8 @@ A responsive bilingual website I built for Elanthoor Seva Center, a local centre
 
 ![Website homepage preview](preview.jpg)
 
+[Visit the live website](https://elanthoor-seva-center.adinair108.workers.dev/)
+
 ## Project highlights
 
 - English and Malayalam content on the same website.
@@ -13,4 +15,4 @@ A responsive bilingual website I built for Elanthoor Seva Center, a local centre
 
 **Built with:** Astro, TypeScript and CSS.
 
-This repository is a portfolio overview. The production source code and client details are kept private. The screenshot is a presentation preview with contact details removed. This is not an official government website.
+This repository is a portfolio overview. The production source code is kept in a separate private repository. The screenshot is a presentation preview with contact details removed; the live website displays the centre's public business information. This is not an official government website.
