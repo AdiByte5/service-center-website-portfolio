@@ -2,7 +2,7 @@
 
 A responsive bilingual website I built for Elanthoor Seva Center, a local centre that helps people access CSC-related and other online services.
 
-![Website homepage preview](preview.png)
+![Website homepage preview](preview.jpg)
 
 ## Project highlights
 
