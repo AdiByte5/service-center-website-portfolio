@@ -4,7 +4,7 @@ A responsive bilingual website I built for Elanthoor Seva Center, a local centre
 
 ![Website homepage preview](preview.jpg)
 
-[Visit the live website](https://elanthoor-seva-center.adinair108.workers.dev/)
+[Visit the live website](https://www.elanthoorsevacenter.com/)
 
 ## Project highlights
 
